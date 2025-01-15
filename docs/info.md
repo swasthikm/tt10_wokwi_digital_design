@@ -16,6 +16,8 @@ This circuit implements a two-bit adder, where each input has one bit.
 ## How to test
 
 Switching A, B, Cin result in following Sum and Cout value.
+
+
 | Cin     | A       | B      | S      | Cout   |
 |---------|---------|--------|--------|--------|
 | 0       | 0       | 0      | 0      | 0      |
