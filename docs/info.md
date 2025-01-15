@@ -29,4 +29,4 @@ Switching A, B, Cin result in following Sum and Cout value.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LEDs
